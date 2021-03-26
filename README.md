@@ -1,6 +1,6 @@
-# OpenGL Random Pixel Generator
+# OpenGL Simple Arkanoid Game
 
-This is a simple OpenGL Random Pixel Generator created using the olcPixelEngine.
+This is a simple OpenGL Arkanoid game created using the olcPixelEngine.
 
 ## Building
 
